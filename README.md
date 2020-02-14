@@ -13,7 +13,7 @@ https://tagboardeffects.blogspot.com/2018/06/baja-ampeg-svt-bass-amplifier.html
 
 
 ## Text about de circuit
-Original FSB thread and schematic available [here|https://freestompboxes.org/viewtopic.php?f=13&t=28975&view=unread&sid=8c8ea533a46ea3f747a373456ed4bba7].
+Original FSB thread and schematic available [here](https://freestompboxes.org/viewtopic.php?f=13&t=28975&view=unread&sid=8c8ea533a46ea3f747a373456ed4bba7).
 I've put the Mid Freq switch components on a separate board to make it easier to box it.
 
 ## Tags
